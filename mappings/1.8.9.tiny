@@ -4526,7 +4526,7 @@ FIELD	aqn$b	Z	h	field_10
 FIELD	aqn$b	Ljava/util/List;	i	field_10219
 FIELD	aqn$b	Ljava/util/List;	j	field_10220
 FIELD	aqn$b	Laqn$b$a;	k	field_13
-CLASS	aqn$b$a	net/minecraft/class_1588$class_7
+CLASS	aqn$b$a	net/minecraft/class_1588$class_6$class_7
 CLASS	aqn$c	net/minecraft/class_1588$class_8
 FIELD	aqn$c	I	a	field_14
 FIELD	aqn$c	I	b	field_15
@@ -4620,7 +4620,7 @@ METHOD	aqp$p	(Laqp$m;Ljava/util/List;Ljava/util/Random;II)Laqt;	a	method_39
 METHOD	aqp$p	(Ljava/util/Random;)Laqp$p$a;	a	method_40
 METHOD	aqp$p	(Laqp$m;Ljava/util/List;Ljava/util/Random;II)Laqt;	b	method_9265
 METHOD	aqp$p	(Laqp$m;Ljava/util/List;Ljava/util/Random;II)Laqt;	c	method_9266
-CLASS	aqp$p$a	net/minecraft/class_11$class_32
+CLASS	aqp$p$a	net/minecraft/class_11$class_31$class_32
 FIELD	aqp$p$a	Laqp$p$a;	a	field_58
 FIELD	aqp$p$a	Laqp$p$a;	b	field_59
 FIELD	aqp$p$a	Laqp$p$a;	c	field_60
@@ -7402,7 +7402,7 @@ METHOD	ayf	(Layf;)Lavn;	r	method_6766
 METHOD	ayf	(Layf;)Lavn;	s	method_6767
 CLASS	ayf$a	net/minecraft/class_402$class_403
 FIELD	ayf$a	Layf;	u	field_1333
-CLASS	ayf$a$1	net/minecraft/class_403$1
+CLASS	ayf$a$1	net/minecraft/class_402$class_403$class_403$1
 FIELD	ayf$a$1	Layf;	a	field_1334
 FIELD	ayf$a$1	Layf$a;	b	field_1335
 METHOD	ayf$a$1	(Lmu;Lmu;)I	a	method_1120
@@ -7411,7 +7411,7 @@ CLASS	ayf$b	net/minecraft/class_402$class_405
 FIELD	ayf$b	Layf;	u	field_1336
 CLASS	ayf$c	net/minecraft/class_402$class_406
 FIELD	ayf$c	Layf;	u	field_1337
-CLASS	ayf$c$1	net/minecraft/class_406$1
+CLASS	ayf$c$1	net/minecraft/class_402$class_406$class_406$1
 FIELD	ayf$c$1	Layf;	a	field_1338
 FIELD	ayf$c$1	Layf$c;	b	field_1339
 METHOD	ayf$c$1	(Lmu;Lmu;)I	a	method_1121
@@ -11936,7 +11936,7 @@ METHOD	bph$a	()F	c	method_7067
 METHOD	bph$a	()I	d	method_7068
 METHOD	bph$a	()Lbph$a$a;	e	method_7069
 METHOD	bph$a	()Z	f	method_7070
-CLASS	bph$a$a	net/minecraft/class_1896$class_1898
+CLASS	bph$a$a	net/minecraft/class_1896$class_1897$class_1898
 FIELD	bph$a$a	Lbph$a$a;	a	field_8158
 FIELD	bph$a$a	Lbph$a$a;	b	field_8159
 FIELD	bph$a$a	Ljava/lang/String;	c	field_8160
@@ -15014,7 +15014,7 @@ METHOD	js$a	()I	a	method_8077
 METHOD	js$a	([Lcom/mojang/authlib/GameProfile;)V	a	method_8078
 METHOD	js$a	()I	b	method_8079
 METHOD	js$a	()[Lcom/mojang/authlib/GameProfile;	c	method_8080
-CLASS	js$a$a	net/minecraft/class_2081$class_2083
+CLASS	js$a$a	net/minecraft/class_2081$class_2082$class_2083
 METHOD	js$a$a	(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljs$a;	a	method_8081
 METHOD	js$a$a	(Ljs$a;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;	a	method_8082
 METHOD	js$a$a	(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;	deserialize	deserialize
@@ -15029,7 +15029,7 @@ FIELD	js$c	Ljava/lang/String;	a	field_8854
 FIELD	js$c	I	b	field_8855
 METHOD	js$c	()Ljava/lang/String;	a	method_8085
 METHOD	js$c	()I	b	method_8086
-CLASS	js$c$a	net/minecraft/class_2081$class_2086
+CLASS	js$c$a	net/minecraft/class_2081$class_2085$class_2086
 METHOD	js$c$a	(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljs$c;	a	method_8087
 METHOD	js$c$a	(Ljs$c;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;	a	method_8088
 METHOD	js$c$a	(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;	deserialize	deserialize
