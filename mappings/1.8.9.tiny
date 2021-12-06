@@ -7402,7 +7402,7 @@ METHOD	ayf	(Layf;)Lavn;	r	method_6766
 METHOD	ayf	(Layf;)Lavn;	s	method_6767
 CLASS	ayf$a	net/minecraft/class_402$class_403
 FIELD	ayf$a	Layf;	u	field_1333
-CLASS	ayf$a$1	net/minecraft/class_402$class_403$class_403$1
+CLASS	ayf$a$1	net/minecraft/class_402$class_403$1
 FIELD	ayf$a$1	Layf;	a	field_1334
 FIELD	ayf$a$1	Layf$a;	b	field_1335
 METHOD	ayf$a$1	(Lmu;Lmu;)I	a	method_1120
@@ -7411,7 +7411,7 @@ CLASS	ayf$b	net/minecraft/class_402$class_405
 FIELD	ayf$b	Layf;	u	field_1336
 CLASS	ayf$c	net/minecraft/class_402$class_406
 FIELD	ayf$c	Layf;	u	field_1337
-CLASS	ayf$c$1	net/minecraft/class_402$class_406$class_406$1
+CLASS	ayf$c$1	net/minecraft/class_402$class_406$1
 FIELD	ayf$c$1	Layf;	a	field_1338
 FIELD	ayf$c$1	Layf$c;	b	field_1339
 METHOD	ayf$c$1	(Lmu;Lmu;)I	a	method_1121
