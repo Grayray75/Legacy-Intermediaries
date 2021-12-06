@@ -9,7 +9,7 @@ buildscript {
 	}
 
 	dependencies {
-		classpath "cuchaz:enigma:0.14.2.138"
+		classpath "cuchaz:enigma-cli:1.0.0"
 	}
 }
 
@@ -69,11 +69,10 @@ file('mappings').eachFile {
 			}
 		}
 	}
-
 }
 
 def makeJar(String mcVersion, File mappings, boolean v2) {
-	def jarFilename = "intermediary2-" + mcVersion + (v2 ? "-v2" : "")
+	def jarFilename = "intermediary-" + mcVersion + (v2 ? "-v2" : "")
 	return task("${mcVersion}_makeJar" + (v2 ? "v2" : ""), type: Jar) {
 		baseName jarFilename
 		from(file(mappings)) {
