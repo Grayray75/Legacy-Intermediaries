@@ -20327,9 +20327,9 @@ CLASS	xm	net/minecraft/class_1003
 FIELD	xm	Log;	a	field_12141
 FIELD	xm	Lyg;	f	field_4093
 FIELD	xm	I	g	field_4094
-CLASS	xm$a	net/minecraft/class_1004
+CLASS	xm$a	net/minecraft/class_1003$class_1004
 FIELD	xm$a	Lxm;	a	field_4095
-CLASS	xm$b	net/minecraft/class_1005
+CLASS	xm$b	net/minecraft/class_1003$class_1005
 FIELD	xm$b	Lwn;	a	field_4096
 METHOD	xm$b	(Lzx;)Z	b_	method_6338
 CLASS	xn	net/minecraft/class_1006
